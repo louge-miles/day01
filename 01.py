@@ -13,8 +13,3 @@ def sum_even(lst: Iterable[int]) -> int:
 if __name__ == "__main__":
     # 示例：期望输出 12
     print(sum_even([1, 2, 3, 4, 5, 6]))
-
-
-
-
-print(
